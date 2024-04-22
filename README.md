@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Poulami-Nandi, a Theoretical Physicist(PhD) working in High Energy Physics and Quantum Gravity. I am also a Data Engineer with demonstrated knowledge
-- in C, C++, Python and SQL
+- 👋 Hi, I’m @Poulami-Nandi, a Theoretical Physicist(PhD) working in High Energy Physics and Quantum Gravity. I am also a Data Engineer with demonstrated knowledge in C, C++, Python and SQL
 - 👀 I’m interested in Physics, Machine Learning, Python and Dancing
 - 🌱 I’m currently pursuing PostDoc in Physics from University of Pennsylvania and freelancing as Data Engineer for startups 
 - 💞️ I’m looking to collaborate on any interesting project in the domain of Data Engineering. I am keen on working on and learning from projects involving EDA and Deep Learning.
